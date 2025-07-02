@@ -62,12 +62,12 @@ Escrever testes que garantam o comportamento correto da função em diferentes s
 
 ✅ Item com quantidade informada — garantir que a quantidade seja multiplicada corretamente.
 
-✅ Item sem quantidade informada — deve assumir quantidade 1 automaticamente.
+Item sem quantidade informada — deve assumir quantidade 1 automaticamente.
 
-✅ Item com quantidade 0 — o item não afeta o total (resultado será 0 para ele).
+Item com quantidade 0 — o item não afeta o total (resultado será 0 para ele).
 
-✅ Item com preço negativo — deve lançar erro com a mensagem "Preço inválido no item: <nome>".
+Item com preço negativo — deve lançar erro com a mensagem "Preço inválido no item: <nome>".
 
-✅ Carrinho vazio — o total deve ser 0.
+Carrinho vazio — o total deve ser 0.
 
-✅ Entrada não é uma lista — deve lançar erro com a mensagem "A entrada deve ser uma lista de itens".
+Entrada não é uma lista — deve lançar erro com a mensagem "A entrada deve ser uma lista de itens".
